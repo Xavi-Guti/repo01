@@ -7,4 +7,6 @@
    
 3. Posarem la comanda *git init*  
    
-4. Així podem comprovar que s'ha iniciat el repositori correctament![](Imatges/img1.PNG)
+4. Així podem comprovar que s'ha iniciat el repositori correctament![](Imatges/img1.PNG)  
+
+5. Aixo es una prova
